@@ -1,2 +1,2 @@
 pip install tensorflow
-pip install numpy opencv-python
+pip install numpy opencv-python pyautogui
